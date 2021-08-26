@@ -1,0 +1,10 @@
+C:\Users\Zbook\Desktop\VaccineRegistrationApp\VaccineRegistrationApp\obj\Debug\VaccineRegistrationApp.csproj.AssemblyReference.cache
+C:\Users\Zbook\Desktop\VaccineRegistrationApp\VaccineRegistrationApp\obj\Debug\VaccineRegistrationApp.Form1.resources
+C:\Users\Zbook\Desktop\VaccineRegistrationApp\VaccineRegistrationApp\obj\Debug\VaccineRegistrationApp.Properties.Resources.resources
+C:\Users\Zbook\Desktop\VaccineRegistrationApp\VaccineRegistrationApp\obj\Debug\VaccineRegistrationApp.csproj.GenerateResource.cache
+C:\Users\Zbook\Desktop\VaccineRegistrationApp\VaccineRegistrationApp\obj\Debug\VaccineRegistrationApp.csproj.CoreCompileInputs.cache
+C:\Users\Zbook\Desktop\VaccineRegistrationApp\VaccineRegistrationApp\bin\Debug\VaccineRegistrationApp.exe.config
+C:\Users\Zbook\Desktop\VaccineRegistrationApp\VaccineRegistrationApp\bin\Debug\VaccineRegistrationApp.exe
+C:\Users\Zbook\Desktop\VaccineRegistrationApp\VaccineRegistrationApp\bin\Debug\VaccineRegistrationApp.pdb
+C:\Users\Zbook\Desktop\VaccineRegistrationApp\VaccineRegistrationApp\obj\Debug\VaccineRegistrationApp.exe
+C:\Users\Zbook\Desktop\VaccineRegistrationApp\VaccineRegistrationApp\obj\Debug\VaccineRegistrationApp.pdb
